@@ -21,4 +21,15 @@ recurrence for coin change
 
 ![image](https://user-images.githubusercontent.com/102652030/174452387-26f6d4bd-7858-4ace-a946-63c13499b670.png)
 
+931.-Minimum-Falling-Path-Sum
+https://leetcode.com/problems/minimum-falling-path-sum/
+
+DP solution(memoization)-->
+
+![image](https://user-images.githubusercontent.com/102652030/174452571-cc051a71-4498-4316-9669-b6680c942989.png)
+
+
+TABULATATION solution-->
+
+![image](https://user-images.githubusercontent.com/102652030/174452559-ae2dda24-c5e3-4947-9241-470848023009.png)
 
