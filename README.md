@@ -51,4 +51,9 @@ https://leetcode.com/problems/longest-common-subsequence/
 
 ![image](https://user-images.githubusercontent.com/102652030/174541174-5426a4e7-baff-4471-8586-2db842926755.png)
 
+516. Longest Palindromic Subsequence
+
+https://leetcode.com/problems/longest-palindromic-subsequence/
+
+![image](https://user-images.githubusercontent.com/102652030/174611814-8f63debe-baa1-4b14-ac7f-b30241bb9543.png)
 
