@@ -57,3 +57,28 @@ https://leetcode.com/problems/longest-palindromic-subsequence/
 
 ![image](https://user-images.githubusercontent.com/102652030/174611814-8f63debe-baa1-4b14-ac7f-b30241bb9543.png)
 
+Partition-Equal-Subset-Sum
+codestudio question->
+
+![image](https://user-images.githubusercontent.com/102652030/174651561-ab5c75d8-91d3-4a5b-97d6-c7bafe2b446c.png)
+
+
+Counts-Subsets-with-Sum-K
+TABULATION SOLUTION-->
+
+![image](https://user-images.githubusercontent.com/102652030/174651635-982ff953-70a9-474b-a0a3-7aeb3a224045.png)
+
+recurrence for this solution-->
+
+![image](https://user-images.githubusercontent.com/102652030/174651672-6a0fbe16-1540-44e0-a1dd-9a397202c531.png)
+
+
+64.-Minimum-Path-Sum
+https://leetcode.com/problems/minimum-path-sum/ DP solution(MEMOIZATION)-->
+
+![image](https://user-images.githubusercontent.com/102652030/174651798-8314e072-f53a-4082-8b52-df495e84d1f1.png)
+
+TABULATATION-->
+
+![image](https://user-images.githubusercontent.com/102652030/174651832-1a3c1138-d7b0-421e-be9e-f7c2ec88bd49.png)
+
