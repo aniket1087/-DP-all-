@@ -45,5 +45,10 @@ https://leetcode.com/problems/coin-change-2/
 
 ![image](https://user-images.githubusercontent.com/102652030/174469330-5a5748f9-c166-4dfa-a132-63e321cbc8b9.png)
 
+1143. Longest Common Subsequence
+
+https://leetcode.com/problems/longest-common-subsequence/
+
+![image](https://user-images.githubusercontent.com/102652030/174541174-5426a4e7-baff-4471-8586-2db842926755.png)
 
 
