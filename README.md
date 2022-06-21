@@ -82,3 +82,14 @@ TABULATATION-->
 
 ![image](https://user-images.githubusercontent.com/102652030/174651832-1a3c1138-d7b0-421e-be9e-f7c2ec88bd49.png)
 
+115. Distinct Subsequences
+https://leetcode.com/problems/distinct-subsequences/
+
+TABULATION-->
+
+![image](https://user-images.githubusercontent.com/102652030/174749464-fddccccd-b18f-4695-990c-eb85d68a6eb0.png)
+
+RECURRENCE-->
+
+![image](https://user-images.githubusercontent.com/102652030/174749691-4b37ca30-f152-4e1f-b407-abbeae1baeba.png)
+
