@@ -93,3 +93,15 @@ RECURRENCE-->
 
 ![image](https://user-images.githubusercontent.com/102652030/174749691-4b37ca30-f152-4e1f-b407-abbeae1baeba.png)
 
+Edit Distance
+
+RECURRENCE-->
+
+![image](https://user-images.githubusercontent.com/102652030/174801811-11c21b18-cf5a-4910-af65-2f4269463a57.png)
+
+TABULATION-->(1 based indexing)
+
+![image](https://user-images.githubusercontent.com/102652030/174802052-17f176fc-32c0-47fb-96eb-6802cbdb42ad.png)
+
+
+
