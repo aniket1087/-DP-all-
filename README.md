@@ -24,6 +24,16 @@ recurrence for coin change
 931.-Minimum-Falling-Path-Sum
 https://leetcode.com/problems/minimum-falling-path-sum/
 
+DP solution(memoization)-->(931)
+![image](https://user-images.githubusercontent.com/102652030/174959165-38877861-489a-4c8c-9a0d-e9cede5a266c.png)
+
+TABULATATION solution-->
+
+![image](https://user-images.githubusercontent.com/102652030/174959281-4fa5da06-0098-4dbd-bf7b-4061cb3394f2.png)
+
+
+-Counts-Subsets-with-Sum-K
+
 DP solution(memoization)-->
 
 ![image](https://user-images.githubusercontent.com/102652030/174452571-cc051a71-4498-4316-9669-b6680c942989.png)
