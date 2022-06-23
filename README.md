@@ -123,5 +123,15 @@ TABULATION-->
 
 ![image](https://user-images.githubusercontent.com/102652030/175261053-1d4155df-3837-4b10-913a-cce8f4021994.png)
 
+C. Constanze's Machine
+https://codeforces.com/problemset/problem/1245/C
+
+Intution->
+
+![image](https://user-images.githubusercontent.com/102652030/175338326-1acff7aa-6a01-497d-851f-a29e40030c6e.png)
+
+solution-->
+
+![image](https://user-images.githubusercontent.com/102652030/175338488-c65c48c3-c966-4ad1-8492-0ed81347de18.png)
 
 
