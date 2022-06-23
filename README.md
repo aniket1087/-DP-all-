@@ -121,5 +121,7 @@ RECURRENCE-->
 
 TABULATION-->
 
+![image](https://user-images.githubusercontent.com/102652030/175261053-1d4155df-3837-4b10-913a-cce8f4021994.png)
+
 
 
