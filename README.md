@@ -113,5 +113,13 @@ TABULATION-->(1 based indexing)
 
 ![image](https://user-images.githubusercontent.com/102652030/174802052-17f176fc-32c0-47fb-96eb-6802cbdb42ad.png)
 
+Longest Increasing Subsequence
+
+RECURRENCE-->
+
+![image](https://user-images.githubusercontent.com/102652030/175256713-8b3cd630-d136-4770-acc6-3a4a486b7868.png)
+
+TABULATION-->
+
 
 
