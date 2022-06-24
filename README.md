@@ -144,5 +144,8 @@ https://leetcode.com/problems/count-sorted-vowel-strings/
 
 ![image](https://user-images.githubusercontent.com/102652030/175647252-ddc5374e-45b3-498b-94da-a64d99f71415.png)
 
+MATHS FORMULA FOR THIS QUESTION-->
+
+![image](https://user-images.githubusercontent.com/102652030/175648109-e4c26797-ee67-4233-a875-9850524abe0b.png)
 
 
