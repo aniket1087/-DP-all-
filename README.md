@@ -134,4 +134,9 @@ solution-->
 
 ![image](https://user-images.githubusercontent.com/102652030/175338488-c65c48c3-c966-4ad1-8492-0ed81347de18.png)
 
+1277. Count Square Submatrices with All Ones
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+
+![image](https://user-images.githubusercontent.com/102652030/175503176-14b82d7e-bac3-48e7-8fce-d35fa7633b6e.png)
+
 
