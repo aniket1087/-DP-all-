@@ -139,4 +139,10 @@ https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 
 ![image](https://user-images.githubusercontent.com/102652030/175503176-14b82d7e-bac3-48e7-8fce-d35fa7633b6e.png)
 
+1641. Count Sorted Vowel Strings
+https://leetcode.com/problems/count-sorted-vowel-strings/
+
+![image](https://user-images.githubusercontent.com/102652030/175647252-ddc5374e-45b3-498b-94da-a64d99f71415.png)
+
+
 
