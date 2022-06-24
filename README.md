@@ -148,4 +148,6 @@ MATHS FORMULA FOR THIS QUESTION-->
 
 ![image](https://user-images.githubusercontent.com/102652030/175648109-e4c26797-ee67-4233-a875-9850524abe0b.png)
 
+![image](https://user-images.githubusercontent.com/102652030/175649460-0024ff60-f3bb-4ad0-9151-790f2cc06410.png)
+
 
