@@ -150,4 +150,8 @@ MATHS FORMULA FOR THIS QUESTION-->
 
 ![image](https://user-images.githubusercontent.com/102652030/175649460-0024ff60-f3bb-4ad0-9151-790f2cc06410.png)
 
+368. Largest Divisible Subset
+https://leetcode.com/problems/largest-divisible-subset/
+
+![image](https://user-images.githubusercontent.com/102652030/175773162-d0e3c000-59b4-4a01-87a0-6cd4e37b548c.png)
 
