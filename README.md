@@ -155,3 +155,8 @@ https://leetcode.com/problems/largest-divisible-subset/
 
 ![image](https://user-images.githubusercontent.com/102652030/175773162-d0e3c000-59b4-4a01-87a0-6cd4e37b548c.png)
 
+Matrix Chain Multiplication
+https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/#
+
+![image](https://user-images.githubusercontent.com/102652030/175814653-b1fb6c88-c6f6-4fcb-8d72-6fab3e4d06cf.png)
+
