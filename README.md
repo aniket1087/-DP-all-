@@ -161,3 +161,9 @@ https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/#
 ![image](https://user-images.githubusercontent.com/102652030/175814653-b1fb6c88-c6f6-4fcb-8d72-6fab3e4d06cf.png)
 
 ![image](https://user-images.githubusercontent.com/102652030/175814958-aedb5e34-1279-4939-aca0-a7aad039c718.png)
+
+1043. Partition Array for Maximum Sum
+https://leetcode.com/problems/partition-array-for-maximum-sum/
+
+![image](https://user-images.githubusercontent.com/102652030/175941932-2d30e501-3138-4a81-95c5-029b90477a15.png)
+
