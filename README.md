@@ -169,3 +169,9 @@ https://leetcode.com/problems/partition-array-for-maximum-sum/
 
 ![image](https://user-images.githubusercontent.com/102652030/175949573-c06ac3e9-f94e-435f-9f6d-28e355ddd8e1.png)
 
+55. Jump Game
+https://leetcode.com/problems/jump-game/
+
+Greedy approach-->
+
+![image](https://user-images.githubusercontent.com/102652030/176469529-a99ca779-bb52-4d12-9179-cc6d86b8c62f.png)
