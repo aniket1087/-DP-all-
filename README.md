@@ -175,3 +175,8 @@ https://leetcode.com/problems/jump-game/
 Greedy approach-->
 
 ![image](https://user-images.githubusercontent.com/102652030/176469529-a99ca779-bb52-4d12-9179-cc6d86b8c62f.png)
+
+139. Word Break
+https://leetcode.com/problems/word-break/
+
+![image](https://user-images.githubusercontent.com/102652030/176929369-b521c2d1-306d-422f-ba9f-ccaa655ca3a7.png)
