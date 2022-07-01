@@ -180,3 +180,7 @@ Greedy approach-->
 https://leetcode.com/problems/word-break/
 
 ![image](https://user-images.githubusercontent.com/102652030/176929369-b521c2d1-306d-422f-ba9f-ccaa655ca3a7.png)
+
+TABULATION-->
+![image](https://user-images.githubusercontent.com/102652030/176930583-32a0d1e7-f58e-43ed-b908-47eb26d7cd87.png)
+
