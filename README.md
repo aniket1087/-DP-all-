@@ -184,3 +184,7 @@ https://leetcode.com/problems/word-break/
 TABULATION-->
 ![image](https://user-images.githubusercontent.com/102652030/176930583-32a0d1e7-f58e-43ed-b908-47eb26d7cd87.png)
 
+935. Knight Dialer
+https://leetcode.com/problems/knight-dialer/
+
+![image](https://user-images.githubusercontent.com/102652030/177155888-27ae45d2-73ba-4a27-a8ab-32d301f8b870.png)
