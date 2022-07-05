@@ -188,3 +188,9 @@ TABULATION-->
 https://leetcode.com/problems/knight-dialer/
 
 ![image](https://user-images.githubusercontent.com/102652030/177155888-27ae45d2-73ba-4a27-a8ab-32d301f8b870.png)
+
+1525. Number of Good Ways to Split a String
+https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+
+![image](https://user-images.githubusercontent.com/102652030/177293442-f26fd359-046a-41fd-a7cd-e5346b41fa5e.png)
+
