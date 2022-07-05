@@ -194,3 +194,11 @@ https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 
 ![image](https://user-images.githubusercontent.com/102652030/177293442-f26fd359-046a-41fd-a7cd-e5346b41fa5e.png)
 
+647. Palindromic Substrings
+
+![image](https://user-images.githubusercontent.com/102652030/177377830-a15c565d-9d0c-449d-ba45-0c57843708dd.png)
+
+5. Longest Palindromic Substring
+
+![image](https://user-images.githubusercontent.com/102652030/177377956-a6720a2f-984c-4b16-9c16-6f793aeb1a30.png)
+
