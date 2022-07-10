@@ -205,5 +205,6 @@ https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 377. Combination Sum IV
 https://leetcode.com/problems/combination-sum-iv/
 
-![image](https://user-images.githubusercontent.com/102652030/178145642-19f5c8e2-9c56-4253-bfca-679f0641729c.png)
+![image](https://user-images.githubusercontent.com/102652030/178145781-ed32133f-fff1-430a-98a5-70e185c1d1e3.png)
+
 
