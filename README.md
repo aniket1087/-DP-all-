@@ -207,4 +207,6 @@ https://leetcode.com/problems/combination-sum-iv/
 
 ![image](https://user-images.githubusercontent.com/102652030/178145781-ed32133f-fff1-430a-98a5-70e185c1d1e3.png)
 
+473. Matchsticks to Square https://leetcode.com/problems/matchsticks-to-square/
 
+![image](https://user-images.githubusercontent.com/102652030/178579831-778d041e-06e0-431c-ac82-46feea779f41.png)
