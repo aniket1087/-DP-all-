@@ -216,3 +216,7 @@ https://leetcode.com/problems/longest-arithmetic-subsequence/
 
 ![image](https://user-images.githubusercontent.com/102652030/179697618-77efbcf8-6515-492d-ac61-6e2369186ac2.png)
 
+279. Perfect Squares
+https://leetcode.com/problems/perfect-squares/
+
+![image](https://user-images.githubusercontent.com/102652030/179724498-aff0bee7-17e9-47d4-9599-95f6e1146f7b.png)
