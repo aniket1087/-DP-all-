@@ -210,3 +210,9 @@ https://leetcode.com/problems/combination-sum-iv/
 473. Matchsticks to Square https://leetcode.com/problems/matchsticks-to-square/
 
 ![image](https://user-images.githubusercontent.com/102652030/178579831-778d041e-06e0-431c-ac82-46feea779f41.png)
+
+1027. Longest Arithmetic Subsequence
+https://leetcode.com/problems/longest-arithmetic-subsequence/
+
+![image](https://user-images.githubusercontent.com/102652030/179697618-77efbcf8-6515-492d-ac61-6e2369186ac2.png)
+
